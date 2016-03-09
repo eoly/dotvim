@@ -29,7 +29,7 @@ NeoBundle 'tpope/vim-fugitive'
 " syntax checking on save
 NeoBundle 'scrooloose/syntastic'
 " TextMate-style snippets
-NeoBundle 'garbas/snipmate.vim'
+NeoBundle 'msanders/snipmate.vim'
 " manipulation of surraunding parens, quotes, etc.
 NeoBundle 'tpope/vim-surround'
 " vertical alignment tool
